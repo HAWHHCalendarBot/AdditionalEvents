@@ -1,0 +1,245 @@
+[
+  {
+    "name": "TeSSA",
+    "year": 2017,
+    "date": "10",
+    "month": "10",
+    "starttime": "16:00",
+    "endtime": "17:30",
+    "room": "781"
+  },
+  {
+    "name": "TeSSA",
+    "year": 2017,
+    "date": "26",
+    "month": "9",
+    "starttime": "16:00",
+    "endtime": "18:00",
+    "room": "781"
+  },
+  {
+    "name": "TeSSA",
+    "year": 2017,
+    "starttime": "16:00",
+    "endtime": "17:30",
+    "date": "24",
+    "month": "10",
+    "room": "781"
+  },
+  {
+    "name": "TeSSA",
+    "year": 2017,
+    "starttime": "16:00",
+    "endtime": "17:30",
+    "date": "7",
+    "month": "10",
+    "room": "781"
+  },
+  {
+    "name": "TeSSA",
+    "year": 2017,
+    "starttime": "16:00",
+    "endtime": "17:30",
+    "date": "21",
+    "month": "10",
+    "room": "781"
+  },
+  {
+    "name": "TeSSA",
+    "year": 2017,
+    "starttime": "16:00",
+    "endtime": "17:30",
+    "date": "7",
+    "month": "11",
+    "room": "781"
+  },
+  {
+    "name": "TeSSA",
+    "year": 2017,
+    "starttime": "16:00",
+    "endtime": "17:30",
+    "date": "21",
+    "month": "11",
+    "room": "781"
+  },
+  {
+    "name": "TeSSA",
+    "year": 2017,
+    "starttime": "16:00",
+    "endtime": "17:30",
+    "date": "5",
+    "month": "12",
+    "room": "781"
+  },
+  {
+    "name": "TeSSA",
+    "year": 2017,
+    "starttime": "17:15",
+    "endtime": "19:30",
+    "date": "19",
+    "month": "12",
+    "room": "Peter Pane, Lange Reihe 107, 20099 Hamburg"
+  },
+  {
+    "name": "TeSSA",
+    "year": 2017,
+    "starttime": "17:00",
+    "endtime": "17:15",
+    "date": "19",
+    "month": "12",
+    "room": "BT7 Foyer"
+  },
+  {
+    "name": "TeSSA",
+    "year": "2018",
+    "starttime": "16:00",
+    "endtime": "17:30",
+    "date": "23",
+    "month": "1",
+    "room": "1160"
+  },
+  {
+    "name": "TeSSA",
+    "year": "2018",
+    "starttime": "16:00",
+    "endtime": "17:30",
+    "date": "6",
+    "month": "2",
+    "room": "1160"
+  },
+  {
+    "name": "TeSSA",
+    "year": "2018",
+    "starttime": "16:00",
+    "endtime": "17:30",
+    "date": "27",
+    "month": "2",
+    "room": "1160"
+  },
+  {
+    "name": "TeSSA",
+    "year": "2018",
+    "starttime": "16:00",
+    "endtime": "17:30",
+    "date": "13",
+    "month": "3",
+    "room": "1101c"
+  },
+  {
+    "name": "TeSSA",
+    "year": "2018",
+    "starttime": "16:00",
+    "endtime": "17:30",
+    "date": "24",
+    "month": "4",
+    "room": "1101c"
+  },
+  {
+    "name": "TeSSA",
+    "year": "2018",
+    "starttime": "16:00",
+    "endtime": "17:30",
+    "date": "8",
+    "month": "5",
+    "room": "1101c"
+  },
+  {
+    "name": "TeSSA",
+    "year": "2018",
+    "starttime": "16:00",
+    "endtime": "17:30",
+    "date": "22",
+    "month": "5",
+    "room": "1101c"
+  },
+  {
+    "name": "TeSSA",
+    "year": "2018",
+    "starttime": "16:00",
+    "endtime": "17:30",
+    "date": "5",
+    "month": "6",
+    "room": "1101c"
+  },
+  {
+    "name": "TeSSA",
+    "year": "2018",
+    "starttime": "16:00",
+    "endtime": "17:30",
+    "date": "19",
+    "month": "6",
+    "room": "1101c"
+  },
+  {
+    "name": "TeSSA",
+    "year": "2018",
+    "starttime": "13:00",
+    "endtime": "16:00",
+    "date": "31",
+    "month": "7",
+    "room": "1160"
+  },
+  {
+    "name": "TeSSA",
+    "year": "2018",
+    "starttime": "10:00",
+    "endtime": "13:00",
+    "date": "9",
+    "month": "8",
+    "room": "1160"
+  },
+  {
+    "year": "2018",
+    "month": "9",
+    "date": "25",
+    "name": "TeSSA",
+    "starttime": "16:00",
+    "endtime": "17:30",
+    "room": "1101c"
+  },
+  {
+    "year": "2018",
+    "month": "10",
+    "date": "23",
+    "name": "TeSSA",
+    "starttime": "16:00",
+    "endtime": "17:30",
+    "room": "1101c"
+  },
+  {
+    "year": "2018",
+    "month": "10",
+    "date": "9",
+    "name": "TeSSA",
+    "starttime": "16:00",
+    "endtime": "17:30",
+    "room": "1160"
+  },
+  {
+    "year": "2018",
+    "month": "11",
+    "date": "20",
+    "name": "TeSSA",
+    "starttime": "16:00",
+    "endtime": "17:30",
+    "room": "1101c"
+  },
+  {
+    "year": "2018",
+    "month": "12",
+    "date": "4",
+    "name": "TeSSA",
+    "starttime": "16:00",
+    "endtime": "17:30",
+    "room": "1101c"
+  },
+  {
+    "year": "2018",
+    "month": "12",
+    "date": "18",
+    "name": "TeSSA",
+    "starttime": "16:00",
+    "endtime": "17:30",
+    "room": "1101c"
+  }
+]
