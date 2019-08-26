@@ -1,16 +1,16 @@
 {
 	"name": "calendarbot-additional-events",
 	"version": "0.0.0",
-	"private": "true",
+	"private": true,
 	"license": "MIT",
 	"repository": "EdJoPaTo/AdditionalEvents",
 	"author": {
 		"name": "Edgar Toll",
 		"email": "edjopato@gmail.com",
-		"url": "edjopato.de"
+		"url": "https://edjopato.de"
 	},
 	"engines": {
-		"node": ">=11"
+		"node": ">=12"
 	},
 	"scripts": {
 		"test": "xo && ava"
