@@ -140,5 +140,14 @@
     "starttime": "15:00",
     "endtime": "16:00",
     "room": "Stiftstr69 R2"
+  },
+  {
+    "year": 2019,
+    "month": 9,
+    "date": 26,
+    "name": "CaDS-JourFixe",
+    "starttime": "11:45",
+    "endtime": "12:00",
+    "room": "Stiftstr69 R2"
   }
 ]
