@@ -1,0 +1,119 @@
+[
+  {
+    "year": 2019,
+    "month": 10,
+    "date": 8,
+    "name": "BITS2-GS Tutorium",
+    "starttime": "16:15",
+    "endtime": "17:45",
+    "room": "1060"
+  },
+  {
+    "year": 2019,
+    "month": 10,
+    "date": 15,
+    "name": "BITS2-GS Tutorium",
+    "starttime": "16:15",
+    "endtime": "17:45",
+    "room": "1060"
+  },
+  {
+    "year": 2019,
+    "month": 10,
+    "date": 22,
+    "name": "BITS2-GS Tutorium",
+    "starttime": "16:15",
+    "endtime": "17:45",
+    "room": "1060"
+  },
+  {
+    "year": 2019,
+    "month": 10,
+    "date": 29,
+    "name": "BITS2-GS Tutorium",
+    "starttime": "16:15",
+    "endtime": "17:45",
+    "room": "1060"
+  },
+  {
+    "year": 2019,
+    "month": 11,
+    "date": 5,
+    "name": "BITS2-GS Tutorium",
+    "starttime": "16:15",
+    "endtime": "17:45",
+    "room": "1060"
+  },
+  {
+    "year": 2019,
+    "month": 11,
+    "date": 12,
+    "name": "BITS2-GS Tutorium",
+    "starttime": "16:15",
+    "endtime": "17:45",
+    "room": "1060"
+  },
+  {
+    "year": 2019,
+    "month": 11,
+    "date": 19,
+    "name": "BITS2-GS Tutorium",
+    "starttime": "16:15",
+    "endtime": "17:45",
+    "room": "1060"
+  },
+  {
+    "year": 2019,
+    "month": 11,
+    "date": 26,
+    "name": "BITS2-GS Tutorium",
+    "starttime": "16:15",
+    "endtime": "17:45",
+    "room": "1060"
+  },
+  {
+    "year": 2019,
+    "month": 12,
+    "date": 3,
+    "name": "BITS2-GS Tutorium",
+    "starttime": "16:15",
+    "endtime": "17:45",
+    "room": "1060"
+  },
+  {
+    "year": 2019,
+    "month": 12,
+    "date": 10,
+    "name": "BITS2-GS Tutorium",
+    "starttime": "16:15",
+    "endtime": "17:45",
+    "room": "1060"
+  },
+  {
+    "year": 2019,
+    "month": 12,
+    "date": 17,
+    "name": "BITS2-GS Tutorium",
+    "starttime": "16:15",
+    "endtime": "17:45",
+    "room": "1060"
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "date": 7,
+    "name": "BITS2-GS Tutorium",
+    "starttime": "16:15",
+    "endtime": "17:45",
+    "room": "1060"
+  },
+  {
+    "year": 2020,
+    "month": 1,
+    "date": 14,
+    "name": "BITS2-GS Tutorium",
+    "starttime": "16:15",
+    "endtime": "17:45",
+    "room": "1060"
+  }
+]
