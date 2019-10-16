@@ -155,8 +155,9 @@
     "month": 10,
     "date": 17,
     "name": "CaDS-JourFixe",
-    "starttime": "13:15",
-    "endtime": "23:00"
+    "starttime": "15:30",
+    "endtime": "18:00",
+    "room": "Gasthaus Heimathafen, Baumwall 7, Hamburg"
   },
   {
     "year": 2019,
