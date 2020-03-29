@@ -212,5 +212,14 @@
     "starttime": "13:00",
     "endtime": "13:30",
     "room": "online"
+  },
+  {
+    "year": 2020,
+    "month": 4,
+    "date": 2,
+    "name": "CaDS-JourFixe",
+    "starttime": "11:40",
+    "endtime": "12:00",
+    "room": "online"
   }
 ]
