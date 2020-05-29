@@ -34,5 +34,50 @@
     "starttime": "16:30",
     "endtime": "16:45",
     "room": "online"
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "date": 2,
+    "name": "CaDS-Weekly",
+    "starttime": "16:30",
+    "endtime": "16:45",
+    "room": "online"
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "date": 9,
+    "name": "CaDS-Weekly",
+    "starttime": "16:30",
+    "endtime": "16:45",
+    "room": "online"
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "date": 16,
+    "name": "CaDS-Weekly",
+    "starttime": "16:30",
+    "endtime": "16:45",
+    "room": "online"
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "date": 23,
+    "name": "CaDS-Weekly",
+    "starttime": "16:30",
+    "endtime": "16:45",
+    "room": "online"
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "date": 30,
+    "name": "CaDS-Weekly",
+    "starttime": "16:30",
+    "endtime": "16:45",
+    "room": "online"
   }
 ]
