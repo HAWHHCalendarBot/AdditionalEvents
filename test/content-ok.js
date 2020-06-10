@@ -22,7 +22,7 @@ function checkEvent(t, e) {
 	t.truthy(e.starttime)
 	t.truthy(e.endtime)
 
-	t.true(isFinite(e.date) && e.date >= 1 && e.date <= 31)
-	t.true(isFinite(e.month) && e.month >= 1 && e.month <= 12)
-	t.true(isFinite(e.year) && e.year >= 2015 && e.year <= 2100)
+	t.true(Number.isFinite(e.date) && e.date >= 1 && e.date <= 31)
+	t.true(Number.isFinite(e.month) && e.month >= 1 && e.month <= 12)
+	t.true(Number.isFinite(e.year) && e.year >= 2015 && e.year <= 2100)
 }
