@@ -5,9 +5,9 @@
 	"license": "MIT",
 	"repository": "EdJoPaTo/AdditionalEvents",
 	"author": {
-		"name": "Edgar Toll",
-		"email": "edjopato@gmail.com",
-		"url": "https://edjopato.de"
+		"name": "EdJoPaTo",
+		"email": "calendarbot@hawhh.de",
+		"url": "https://calendarbot.hawhh.de"
 	},
 	"engines": {
 		"node": ">=12"
