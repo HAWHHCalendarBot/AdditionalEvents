@@ -79,5 +79,41 @@
     "starttime": "16:30",
     "endtime": "16:45",
     "room": "online"
+  },
+  {
+    "year": 2020,
+    "month": 7,
+    "date": 7,
+    "name": "CaDS-Weekly",
+    "starttime": "16:30",
+    "endtime": "16:45",
+    "room": "https://bbb.ulm.dev/b/cads-weekly"
+  },
+  {
+    "year": 2020,
+    "month": 7,
+    "date": 14,
+    "name": "CaDS-Weekly",
+    "starttime": "16:30",
+    "endtime": "16:45",
+    "room": "https://bbb.ulm.dev/b/cads-weekly"
+  },
+  {
+    "year": 2020,
+    "month": 7,
+    "date": 21,
+    "name": "CaDS-Weekly",
+    "starttime": "16:30",
+    "endtime": "16:45",
+    "room": "https://bbb.ulm.dev/b/cads-weekly"
+  },
+  {
+    "year": 2020,
+    "month": 7,
+    "date": 28,
+    "name": "CaDS-Weekly",
+    "starttime": "16:30",
+    "endtime": "16:45",
+    "room": "https://bbb.ulm.dev/b/cads-weekly"
   }
 ]
