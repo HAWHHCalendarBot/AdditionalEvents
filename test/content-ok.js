@@ -16,9 +16,8 @@ for (const filename of readdirSync(DIR)) {
 }
 
 function checkEvent(t, event) {
-	// Not needed: room
-
 	t.truthy(event.name)
+	t.true(typeof event.room === 'string')
 	t.truthy(event.starttime)
 	t.truthy(event.endtime)
 

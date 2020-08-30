@@ -68,7 +68,8 @@
     "date": 28,
     "name": "CaDS-JourFixe",
     "starttime": "11:30",
-    "endtime": "12:00"
+    "endtime": "12:00",
+    "room": ""
   },
   {
     "year": 2019,
@@ -76,7 +77,8 @@
     "date": 27,
     "name": "CaDS-JourFixe",
     "starttime": "11:40",
-    "endtime": "12:00"
+    "endtime": "12:00",
+    "room": ""
   },
   {
     "year": 2019,

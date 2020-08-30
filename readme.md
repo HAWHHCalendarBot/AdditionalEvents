@@ -28,6 +28,6 @@ Erstelle einfach einen Pull Request oder frage [EdJoPaTo auf Telegram](https://t
 Die Dateien enthalten ein einzelnes JSON Array, welches die Termine als Objekte enthält.
 Ein Termin hat:
 - `name` eindeutig, alle gleichen Namen werden zusammen gruppiert.
-- `root` string, kann weg gelassen werden, enthält den Ort der Veranstaltung.
+- `root` string, enthält den Ort der Veranstaltung.
 - `year`, `month`, `date` sind jeweils Zahlen, 1-31, 1-12, 2042
 - `starttime` und `endtime` sind am angegeben Tag
