@@ -13,12 +13,19 @@
 		"node": ">=14"
 	},
 	"scripts": {
-		"test": "xo && ava"
+		"test": "tsc && xo && ava"
 	},
 	"dependencies": {},
 	"devDependencies": {
+		"@sindresorhus/tsconfig": "^0.7.0",
 		"ava": "^3.8.2",
+		"typescript": "^4.0.2",
 		"xo": "^0.33.0"
+	},
+	"ava": {
+		"files": [
+			"dist/**/*"
+		]
 	},
 	"xo": {
 		"semicolon": false

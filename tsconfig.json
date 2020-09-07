@@ -1,0 +1,13 @@
+{
+	"extends": "@sindresorhus/tsconfig",
+	"include": [
+		"source",
+		"test"
+	],
+	"compilerOptions": {
+		"declaration": false,
+		"target": "es2019",
+		"sourceMap": true,
+		"outDir": "dist"
+	}
+}

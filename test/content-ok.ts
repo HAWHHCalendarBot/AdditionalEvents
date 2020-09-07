@@ -1,13 +1,23 @@
-const {readdirSync, promises} = require('fs')
-const test = require('ava')
+import {readdirSync} from 'fs'
+import {readFile} from 'fs/promises'
 
-const {readFile} = promises
+import test, {ExecutionContext} from 'ava'
 
 const DIR = './events'
 
+interface EventEntry {
+	readonly name: string;
+	readonly room: string;
+	readonly starttime: string;
+	readonly endtime: string;
+	readonly date: number;
+	readonly month: number;
+	readonly year: number;
+}
+
 for (const filename of readdirSync(DIR)) {
 	test(filename, async t => {
-		const content = JSON.parse(await readFile(`${DIR}/${filename}`))
+		const content = JSON.parse(await readFile(`${DIR}/${filename}`, 'utf8'))
 		t.log(content)
 		for (const event of content) {
 			checkEvent(t, event)
@@ -15,7 +25,7 @@ for (const filename of readdirSync(DIR)) {
 	})
 }
 
-function checkEvent(t, event) {
+function checkEvent(t: ExecutionContext, event: EventEntry): void {
 	t.truthy(event.name)
 	t.true(typeof event.room === 'string')
 	t.truthy(event.starttime)
