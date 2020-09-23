@@ -308,10 +308,10 @@
   {
     "year": 2020,
     "month": 9,
-    "date": 10,
+    "date": 24,
     "name": "CaDS-JourFixe",
-    "starttime": "11:40",
-    "endtime": "12:00",
+    "starttime": "16:00",
+    "endtime": "16:20",
     "room": "online"
   }
 ]
