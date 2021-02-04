@@ -1,7 +1,5 @@
 # Additional Events
 
-[![Build Status](https://travis-ci.com/HAWHHCalendarBot/AdditionalEvents.svg?branch=master)](https://travis-ci.com/HAWHHCalendarBot/AdditionalEvents)
-
 Veranstaltungen wie Tutorien oder Termine von Arbeitsgruppen können hier gelistet werden.
 Diese werden durch den [Downloader](https://github.com/HAWHHCalendarBot/downloader) eingelesen und sind dann im [Telegram Bot](https://telegram.me/HAWHHCalendarBot), wie andere Veranstaltungen auch, verfügbar.
 
