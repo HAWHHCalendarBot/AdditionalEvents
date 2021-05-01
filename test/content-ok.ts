@@ -20,6 +20,7 @@ for (const filename of readdirSync(DIR)) {
 		const content = JSON.parse(await readFile(`${DIR}/${filename}`, 'utf8'))
 		t.log(content)
 		for (const event of content) {
+			// eslint-disable-next-line @typescript-eslint/no-unsafe-argument
 			checkEvent(t, event)
 		}
 	})

@@ -21,7 +21,7 @@
 		"@sindresorhus/tsconfig": "^1.0.1",
 		"ava": "^3.8.2",
 		"typescript": "^4.2.3",
-		"xo": "^0.38.2"
+		"xo": "^0.39.1"
 	},
 	"ava": {
 		"files": [
