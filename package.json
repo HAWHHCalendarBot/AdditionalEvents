@@ -9,12 +9,12 @@
 		"email": "calendarbot@hawhh.de",
 		"url": "https://calendarbot.hawhh.de"
 	},
+	"scripts": {
+		"test": "tsc && xo && ava"
+	},
 	"type": "module",
 	"engines": {
 		"node": ">=14"
-	},
-	"scripts": {
-		"test": "tsc && xo && ava"
 	},
 	"dependencies": {},
 	"devDependencies": {
