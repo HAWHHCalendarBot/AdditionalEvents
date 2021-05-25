@@ -10,7 +10,7 @@
 		"url": "https://calendarbot.hawhh.de"
 	},
 	"scripts": {
-		"test": "tsc && xo && ava"
+		"test": "tsc --sourceMap && xo && ava"
 	},
 	"type": "module",
 	"engines": {
@@ -19,9 +19,10 @@
 	"dependencies": {},
 	"devDependencies": {
 		"@sindresorhus/tsconfig": "^1.0.1",
+		"@types/node": "^15.0.1",
 		"ava": "^3.8.2",
 		"typescript": "^4.2.3",
-		"xo": "^0.39.1"
+		"xo": "^0.40.1"
 	},
 	"ava": {
 		"files": [
@@ -29,6 +30,9 @@
 		]
 	},
 	"xo": {
-		"semicolon": false
+		"semicolon": false,
+		"rules": {
+			"unicorn/prefer-node-protocol": "off"
+		}
 	}
 }
