@@ -439,5 +439,32 @@
     "starttime": "11:45",
     "endtime": "12:15",
     "room": "online"
+  },
+  {
+    "year": 2021,
+    "month": 5,
+    "date": 26,
+    "name": "CaDS-JourFixe",
+    "starttime": "11:45",
+    "endtime": "12:15",
+    "room": "online"
+  },
+  {
+    "year": 2021,
+    "month": 6,
+    "date": 9,
+    "name": "CaDS-JourFixe",
+    "starttime": "11:45",
+    "endtime": "12:15",
+    "room": "online"
+  },
+  {
+    "year": 2021,
+    "month": 6,
+    "date": 23,
+    "name": "CaDS-JourFixe",
+    "starttime": "11:45",
+    "endtime": "12:15",
+    "room": "online"
   }
 ]
