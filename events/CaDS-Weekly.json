@@ -655,5 +655,41 @@
     "starttime": "16:30",
     "endtime": "16:45",
     "room": "https://bbb.ulm.dev/b/cads-weekly"
+  },
+  {
+    "year": 2021,
+    "month": 10,
+    "date": 5,
+    "name": "CaDS-Weekly",
+    "starttime": "16:30",
+    "endtime": "16:45",
+    "room": "https://bbb.ulm.dev/b/cads-weekly"
+  },
+  {
+    "year": 2021,
+    "month": 10,
+    "date": 12,
+    "name": "CaDS-Weekly",
+    "starttime": "16:30",
+    "endtime": "16:45",
+    "room": "https://bbb.ulm.dev/b/cads-weekly"
+  },
+  {
+    "year": 2021,
+    "month": 10,
+    "date": 19,
+    "name": "CaDS-Weekly",
+    "starttime": "16:30",
+    "endtime": "16:45",
+    "room": "https://bbb.ulm.dev/b/cads-weekly"
+  },
+  {
+    "year": 2021,
+    "month": 10,
+    "date": 26,
+    "name": "CaDS-Weekly",
+    "starttime": "16:30",
+    "endtime": "16:45",
+    "room": "https://bbb.ulm.dev/b/cads-weekly"
   }
 ]
