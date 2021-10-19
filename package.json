@@ -21,7 +21,7 @@
 		"@types/node": "^16.0.0",
 		"ava": "^3.8.2",
 		"typescript": "^4.2.3",
-		"xo": "^0.44.0"
+		"xo": "^0.45.0"
 	},
 	"ava": {
 		"files": [
@@ -31,6 +31,7 @@
 	"xo": {
 		"semicolon": false,
 		"rules": {
+			"@typescript-eslint/naming-convention": "off",
 			"unicorn/prefer-node-protocol": "off"
 		}
 	}
