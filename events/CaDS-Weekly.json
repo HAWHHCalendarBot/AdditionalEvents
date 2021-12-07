@@ -1,8 +1,8 @@
 [
   {
     "year": 2021,
-    "month": 11,
-    "date": 2,
+    "month": 12,
+    "date": 7,
     "name": "CaDS-Weekly",
     "starttime": "16:30",
     "endtime": "16:45",
@@ -10,8 +10,8 @@
   },
   {
     "year": 2021,
-    "month": 11,
-    "date": 9,
+    "month": 12,
+    "date": 14,
     "name": "CaDS-Weekly",
     "starttime": "16:30",
     "endtime": "16:45",
@@ -19,8 +19,8 @@
   },
   {
     "year": 2021,
-    "month": 11,
-    "date": 16,
+    "month": 12,
+    "date": 21,
     "name": "CaDS-Weekly",
     "starttime": "16:30",
     "endtime": "16:45",
@@ -28,17 +28,17 @@
   },
   {
     "year": 2021,
-    "month": 11,
-    "date": 23,
+    "month": 12,
+    "date": 28,
     "name": "CaDS-Weekly",
     "starttime": "16:30",
     "endtime": "16:45",
     "room": "https://bbb.verschwoer.haus/b/cads-weekly"
   },
   {
-    "year": 2021,
-    "month": 11,
-    "date": 30,
+    "year": 2022,
+    "month": 1,
+    "date": 4,
     "name": "CaDS-Weekly",
     "starttime": "16:30",
     "endtime": "16:45",
