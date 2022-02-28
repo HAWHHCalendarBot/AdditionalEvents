@@ -106,5 +106,50 @@
     "starttime": "16:30",
     "endtime": "16:45",
     "room": "https://bbb.verschwoer.haus/b/cads-weekly"
+  },
+  {
+    "year": 2022,
+    "month": 3,
+    "date": 1,
+    "name": "CaDS-Weekly",
+    "starttime": "16:30",
+    "endtime": "16:45",
+    "room": "https://bbb.verschwoer.haus/b/cads-weekly"
+  },
+  {
+    "year": 2022,
+    "month": 3,
+    "date": 8,
+    "name": "CaDS-Weekly",
+    "starttime": "16:30",
+    "endtime": "16:45",
+    "room": "https://bbb.verschwoer.haus/b/cads-weekly"
+  },
+  {
+    "year": 2022,
+    "month": 3,
+    "date": 15,
+    "name": "CaDS-Weekly",
+    "starttime": "16:30",
+    "endtime": "16:45",
+    "room": "https://bbb.verschwoer.haus/b/cads-weekly"
+  },
+  {
+    "year": 2022,
+    "month": 3,
+    "date": 22,
+    "name": "CaDS-Weekly",
+    "starttime": "16:30",
+    "endtime": "16:45",
+    "room": "https://bbb.verschwoer.haus/b/cads-weekly"
+  },
+  {
+    "year": 2022,
+    "month": 3,
+    "date": 29,
+    "name": "CaDS-Weekly",
+    "starttime": "16:30",
+    "endtime": "16:45",
+    "room": "https://bbb.verschwoer.haus/b/cads-weekly"
   }
 ]
