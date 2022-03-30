@@ -70,14 +70,5 @@
     "starttime": "13:00",
     "endtime": "13:15",
     "room": "online"
-  },
-  {
-    "year": 2022,
-    "month": 3,
-    "date": 31,
-    "name": "CaDS-JourFixe",
-    "starttime": "11:40",
-    "endtime": "12:10",
-    "room": "287 - Anwesenheitspflicht"
   }
 ]
