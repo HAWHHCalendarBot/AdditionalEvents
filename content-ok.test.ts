@@ -1,4 +1,4 @@
-import { assert } from "https://deno.land/std@0.113.0/testing/asserts.ts";
+import { assert } from "https://deno.land/std@0.141.0/testing/asserts.ts";
 
 const DIR = "./events";
 
