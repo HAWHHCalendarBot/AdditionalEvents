@@ -88,5 +88,14 @@
     "starttime": "11:40",
     "endtime": "12:10",
     "room": "287"
+  },
+  {
+    "year": 2022,
+    "month": 6,
+    "date": 2,
+    "name": "CaDS-JourFixe",
+    "starttime": "12:10",
+    "endtime": "12:30",
+    "room": "287"
   }
 ]
