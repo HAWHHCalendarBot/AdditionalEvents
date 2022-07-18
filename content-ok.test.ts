@@ -1,16 +1,24 @@
-import { assert } from "https://deno.land/std@0.141.0/testing/asserts.ts";
+import Ajv from "https://esm.sh/ajv@8.11.0";
 
 const DIR = "./events";
 
-interface EventEntry {
-  readonly name: string;
-  readonly room: string;
-  readonly starttime: string;
-  readonly endtime: string;
-  readonly date: number;
-  readonly month: number;
-  readonly year: number;
-}
+const eventSchema = {
+  type: "object",
+  properties: {
+    name: { type: "string" },
+    room: { type: "string" },
+    starttime: { type: "string" },
+    endtime: { type: "string" },
+    date: { type: "integer", minimum: 1, maximum: 31 },
+    month: { type: "integer", minimum: 1, maximum: 12 },
+    year: { type: "integer", minimum: 2015, maximum: 2100 },
+  },
+  required: ["name", "room", "starttime", "endtime", "date", "month", "year"],
+  additionalProperties: false,
+};
+
+const ajv = new Ajv();
+const validate = ajv.compile(eventSchema);
 
 for (const filename of Deno.readDirSync(DIR)) {
   Deno.test({
@@ -18,24 +26,14 @@ for (const filename of Deno.readDirSync(DIR)) {
     fn() {
       const content = JSON.parse(
         Deno.readTextFileSync(`${DIR}/${filename.name}`),
-      ) as EventEntry[];
+      ) as unknown[];
       // console.log(content)
       for (const event of content) {
-        checkEvent(event);
+        if (!validate(event)) {
+          console.error(event, validate.errors);
+          throw new Error("does not comply to json schema");
+        }
       }
     },
   });
-}
-
-function checkEvent(event: EventEntry): void {
-  assert(event.name);
-  assert(typeof event.room === "string");
-  assert(event.starttime);
-  assert(event.endtime);
-
-  assert(Number.isFinite(event.date) && event.date >= 1 && event.date <= 31);
-  assert(Number.isFinite(event.month) && event.month >= 1 && event.month <= 12);
-  assert(
-    Number.isFinite(event.year) && event.year >= 2015 && event.year <= 2100,
-  );
 }
