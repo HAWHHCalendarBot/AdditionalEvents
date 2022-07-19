@@ -7,8 +7,8 @@ const eventSchema = {
   properties: {
     name: { type: "string" },
     room: { type: "string" },
-    starttime: { type: "string" },
-    endtime: { type: "string" },
+    starttime: { type: "string", pattern: "^[12]?\\d:\\d\\d" },
+    endtime: { type: "string", pattern: "^[12]?\\d:\\d\\d" },
     date: { type: "integer", minimum: 1, maximum: 31 },
     month: { type: "integer", minimum: 1, maximum: 12 },
     year: { type: "integer", minimum: 2015, maximum: 2100 },
