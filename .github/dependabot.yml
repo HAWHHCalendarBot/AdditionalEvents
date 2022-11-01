@@ -10,4 +10,4 @@ updates:
       interval: "monthly"
       time: "02:42" # UTC
     commit-message:
-      prefix: "ci:"
+      prefix: "ci(actions):"
