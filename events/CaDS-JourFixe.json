@@ -151,5 +151,14 @@
     "starttime": "11:30",
     "endtime": "12:00",
     "room": "287 - Anwesenheitspflicht"
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "date": 9,
+    "name": "CaDS-JourFixe",
+    "starttime": "11:30",
+    "endtime": "12:00",
+    "room": "online"
   }
 ]
