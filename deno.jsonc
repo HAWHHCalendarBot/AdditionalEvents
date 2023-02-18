@@ -27,5 +27,10 @@
         "no-eval"
       ]
     }
+  },
+  "fmt": {
+    "files": {
+      "exclude": ["README.md"]
+    }
   }
 }
