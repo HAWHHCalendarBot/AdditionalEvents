@@ -1,0 +1,110 @@
+[
+    {
+        "name": "BAI2-AFÜ/01",
+        "room": "0560",
+        "date": 24,
+        "month": 3,
+        "year": 2023,
+        "starttime": "12:30",
+        "endtime": "13:20"
+    },
+    {
+        "name": "BAI2-AFÜ/01",
+        "room": "0560",
+        "date": 31,
+        "month": 3,
+        "year": 2023,
+        "starttime": "12:30",
+        "endtime": "13:20"
+    },
+    {
+        "name": "BAI2-AFÜ/01",
+        "room": "0560",
+        "date": 14,
+        "month": 4,
+        "year": 2023,
+        "starttime": "12:30",
+        "endtime": "13:20"
+    },
+    {
+        "name": "BAI2-AFÜ/01",
+        "room": "0560",
+        "date": 21,
+        "month": 4,
+        "year": 2023,
+        "starttime": "12:30",
+        "endtime": "13:20"
+    },
+    {
+        "name": "BAI2-AFÜ/01",
+        "room": "0560",
+        "date": 28,
+        "month": 4,
+        "year": 2023,
+        "starttime": "12:30",
+        "endtime": "13:20"
+    },
+    {
+        "name": "BAI2-AFÜ/01",
+        "room": "0560",
+        "date": 5,
+        "month": 5,
+        "year": 2023,
+        "starttime": "12:30",
+        "endtime": "13:20"
+    },
+    {
+        "name": "BAI2-AFÜ/01",
+        "room": "0560",
+        "date": 26,
+        "month": 5,
+        "year": 2023,
+        "starttime": "12:30",
+        "endtime": "13:20"
+    },
+    {
+        "name": "BAI2-AFÜ/01",
+        "room": "0560",
+        "date": 2,
+        "month": 6,
+        "year": 2023,
+        "starttime": "12:30",
+        "endtime": "13:20"
+    },
+    {
+        "name": "BAI2-AFÜ/01",
+        "room": "0560",
+        "date": 9,
+        "month": 6,
+        "year": 2023,
+        "starttime": "12:30",
+        "endtime": "13:20"
+    },
+    {
+        "name": "BAI2-AFÜ/01",
+        "room": "0560",
+        "date": 16,
+        "month": 6,
+        "year": 2023,
+        "starttime": "12:30",
+        "endtime": "13:20"
+    },
+    {
+        "name": "BAI2-AFÜ/01",
+        "room": "0560",
+        "date": 23,
+        "month": 6,
+        "year": 2023,
+        "starttime": "12:30",
+        "endtime": "13:20"
+    },
+    {
+        "name": "BAI2-AFÜ/01",
+        "room": "0560",
+        "date": 30,
+        "month": 6,
+        "year": 2023,
+        "starttime": "12:30",
+        "endtime": "13:20"
+    }
+]
