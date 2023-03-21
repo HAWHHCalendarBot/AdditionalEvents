@@ -1,0 +1,119 @@
+[
+	{
+		"name": "BAI2-AF",
+		"room": "0360",
+		"date": 23,
+		"month": 3,
+		"year": 2023,
+		"starttime": "8:15",
+		"endtime": "11:30"
+	},
+	{
+		"name": "BAI2-AF",
+		"room": "0360",
+		"date": 30,
+		"month": 3,
+		"year": 2023,
+		"starttime": "8:15",
+		"endtime": "11:30"
+	},
+	{
+		"name": "BAI2-AF",
+		"room": "0360",
+		"date": 6,
+		"month": 4,
+		"year": 2023,
+		"starttime": "8:15",
+		"endtime": "11:30"
+	},
+	{
+		"name": "BAI2-AF",
+		"room": "0360",
+		"date": 20,
+		"month": 4,
+		"year": 2023,
+		"starttime": "8:15",
+		"endtime": "11:30"
+	},
+	{
+		"name": "BAI2-AF",
+		"room": "0360",
+		"date": 27,
+		"month": 4,
+		"year": 2023,
+		"starttime": "8:15",
+		"endtime": "11:30"
+	},
+	{
+		"name": "BAI2-AF",
+		"room": "0360",
+		"date": 4,
+		"month": 5,
+		"year": 2023,
+		"starttime": "8:15",
+		"endtime": "11:30"
+	},
+	{
+		"name": "BAI2-AF",
+		"room": "0360",
+		"date": 11,
+		"month": 5,
+		"year": 2023,
+		"starttime": "8:15",
+		"endtime": "11:30"
+	},
+	{
+		"name": "BAI2-AF",
+		"room": "0360",
+		"date": 25,
+		"month": 5,
+		"year": 2023,
+		"starttime": "8:15",
+		"endtime": "11:30"
+	},
+	{
+		"name": "BAI2-AF",
+		"room": "0360",
+		"date": 1,
+		"month": 6,
+		"year": 2023,
+		"starttime": "8:15",
+		"endtime": "11:30"
+	},
+	{
+		"name": "BAI2-AF",
+		"room": "0360",
+		"date": 8,
+		"month": 6,
+		"year": 2023,
+		"starttime": "8:15",
+		"endtime": "11:30"
+	},
+	{
+		"name": "BAI2-AF",
+		"room": "0360",
+		"date": 15,
+		"month": 6,
+		"year": 2023,
+		"starttime": "8:15",
+		"endtime": "11:30"
+	},
+	{
+		"name": "BAI2-AF",
+		"room": "0360",
+		"date": 22,
+		"month": 6,
+		"year": 2023,
+		"starttime": "8:15",
+		"endtime": "11:30"
+	},
+	{
+		"name": "BAI2-AF",
+		"room": "0360",
+		"date": 29,
+		"month": 6,
+		"year": 2023,
+		"starttime": "8:15",
+		"endtime": "11:30"
+	}
+]
