@@ -25,6 +25,7 @@ Erstelle einfach einen Pull Request oder frage [EdJoPaTo auf Telegram](https://t
 
 Die Dateien enthalten ein einzelnes JSON Array, welches die Termine als Objekte enthält.
 Ein Termin hat:
+
 - `name` alle gleichen Namen werden zusammen gruppiert.
 - `room` enthält den Ort der Veranstaltung.
 - `year`, `month`, `date` sind jeweils Zahlen, 1-31, 1-12, 2042
