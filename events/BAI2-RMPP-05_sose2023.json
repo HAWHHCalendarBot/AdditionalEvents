@@ -1,0 +1,38 @@
+[
+  {
+    "year": 2023,
+    "month": 4,
+    "date": 3,
+    "name": "BAI2-RMPP/05",
+    "starttime": "12:30",
+    "endtime": "15:45",
+    "room": "0709"
+  },
+  {
+    "year": 2023,
+    "month": 5,
+    "date": 1,
+    "name": "BAI2-RMPP/05",
+    "starttime": "12:30",
+    "endtime": "15:45",
+    "room": "0709"
+  },
+  {
+    "year": 2023,
+    "month": 5,
+    "date": 22,
+    "name": "BAI2-RMPP/05",
+    "starttime": "12:30",
+    "endtime": "15:45",
+    "room": "0709"
+  },
+  {
+    "year": 2023,
+    "month": 6,
+    "date": 12,
+    "name": "BAI2-RMPP/05",
+    "starttime": "12:30",
+    "endtime": "15:45",
+    "room": "0709"
+  }
+]
