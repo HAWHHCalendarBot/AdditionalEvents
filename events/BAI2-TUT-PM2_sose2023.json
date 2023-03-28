@@ -1,0 +1,83 @@
+[
+    {
+        "name": "BAI2-TUT-PM2",
+        "room": "03.80a",
+        "date": 30,
+        "month": 3,
+        "year": 2023,
+        "starttime": "16:00",
+        "endtime": "18:00"
+    },
+    {
+        "name": "BAI2-TUT-PM2",
+        "room": "03.80a",
+        "date": 6,
+        "month": 4,
+        "year": 2023,
+        "starttime": "16:00",
+        "endtime": "18:00"
+    },
+    {
+        "name": "BAI2-TUT-PM2",
+        "room": "03.80a",
+        "date": 20,
+        "month": 4,
+        "year": 2023,
+        "starttime": "16:00",
+        "endtime": "18:00"
+    },
+    {
+        "name": "BAI2-TUT-PM2",
+        "room": "03.80a",
+        "date": 27,
+        "month": 4,
+        "year": 2023,
+        "starttime": "16:00",
+        "endtime": "18:00"
+    },
+    {
+        "name": "BAI2-TUT-PM2",
+        "room": "03.80a",
+        "date": 11,
+        "month": 5,
+        "year": 2023,
+        "starttime": "16:00",
+        "endtime": "18:00"
+    },
+    {
+        "name": "BAI2-TUT-PM2",
+        "room": "03.80a",
+        "date": 25,
+        "month": 5,
+        "year": 2023,
+        "starttime": "16:00",
+        "endtime": "18:00"
+    },
+    {
+        "name": "BAI2-TUT-PM2",
+        "room": "03.80a",
+        "date": 8,
+        "month": 6,
+        "year": 2023,
+        "starttime": "16:00",
+        "endtime": "18:00"
+    },
+    {
+        "name": "BAI2-TUT-PM2",
+        "room": "03.80a",
+        "date": 15,
+        "month": 6,
+        "year": 2023,
+        "starttime": "16:00",
+        "endtime": "18:00"
+    },
+    {
+        "name": "BAI2-TUT-PM2",
+        "room": "03.80a",
+        "date": 29,
+        "month": 6,
+        "year": 2023,
+        "starttime": "16:00",
+        "endtime": "18:00"
+    }
+]
