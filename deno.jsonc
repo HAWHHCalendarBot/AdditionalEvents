@@ -28,11 +28,7 @@
 		}
 	},
 	"fmt": {
-		"options": {
-			"useTabs": true
-		},
-		"files": {
-			"exclude": ["README.md"]
-		}
+		"exclude": ["README.md"],
+		"useTabs": true
 	}
 }
