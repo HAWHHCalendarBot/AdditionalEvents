@@ -1,19 +1,18 @@
-import Ajv from "https://esm.sh/ajv@8.11.0";
+import Ajv from "https://esm.sh/ajv@8.17.1";
 
 const DIR = "./events";
+
+const datePattern = /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}$/.source;
 
 const eventSchema = {
 	type: "object",
 	properties: {
 		name: { type: "string" },
-		room: { type: "string" },
-		starttime: { type: "string", pattern: "^[12]?\\d:\\d\\d" },
-		endtime: { type: "string", pattern: "^[12]?\\d:\\d\\d" },
-		date: { type: "integer", minimum: 1, maximum: 31 },
-		month: { type: "integer", minimum: 1, maximum: 12 },
-		year: { type: "integer", minimum: 2015, maximum: 2100 },
+		location: { type: "string" },
+		start: { type: "string", pattern: datePattern },
+		end: { type: "string", pattern: datePattern },
 	},
-	required: ["name", "room", "starttime", "endtime", "date", "month", "year"],
+	required: ["name", "location", "start", "end"],
 	additionalProperties: false,
 };
 
