@@ -1,4 +1,4 @@
-import { Ajv } from "npm:ajv@8";
+import { Ajv } from "ajv";
 
 const DIR = "./events";
 
