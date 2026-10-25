@@ -1,3 +1,6 @@
+import { readdirSync, readFileSync } from "node:fs";
+import test from "node:test";
+
 import { Ajv } from "ajv";
 
 const DIR = "./events";
@@ -19,20 +22,17 @@ const eventSchema = {
 const ajv = new Ajv();
 const validate = ajv.compile(eventSchema);
 
-for (const filename of Deno.readDirSync(DIR)) {
-	Deno.test({
-		name: filename.name,
-		fn() {
-			const content = JSON.parse(
-				Deno.readTextFileSync(`${DIR}/${filename.name}`),
-			) as unknown[];
-			// console.log(content)
-			for (const event of content) {
-				if (!validate(event)) {
-					console.error(event, validate.errors);
-					throw new Error("does not comply to json schema");
-				}
+for (const filename of readdirSync(DIR)) {
+	test(filename, () => {
+		const content = JSON.parse(
+			readFileSync(`${DIR}/${filename}`, "utf8"),
+		) as unknown[];
+		// console.log(content)
+		for (const event of content) {
+			if (!validate(event)) {
+				console.error(event, validate.errors);
+				throw new Error("does not comply to json schema");
 			}
-		},
+		}
 	});
 }
